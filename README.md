@@ -1,1 +1,1 @@
-# Magicians_curse
+A minecraft magician mod!
